@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+    <p>Dear requester,</p>
+    <br>
+    <p>The price for item "{0}" decreased below your target price of {1} Lei.</p>   
+    <p>Today, {2}, on {3} the item price is {4} Lei.</p>
+    <p>Please proceed and buy the item if you like.</p>
+    <br>
+    <p>Thank you,</p>
+    <p>RPA - Best price in the market</p>
+</body>
+</html>
